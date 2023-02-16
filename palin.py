@@ -1,5 +1,5 @@
 # Program for check number is palindrome or not !
-
+# using floor division
 n = int(input())
 na = n
 rev = 0
